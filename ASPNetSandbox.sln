@@ -5,7 +5,11 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi", "WebApi\WebApi.csproj", "{0E67AB01-0F65-49DA-AC3F-C965F4E3362D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCookieConsumer", "WebCookieConsumer\WebCookieConsumer.csproj", "{C998A67B-816F-4AB4-BC15-6263672FC0EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebCookieConsumer", "WebCookieConsumer\WebCookieConsumer.csproj", "{C998A67B-816F-4AB4-BC15-6263672FC0EF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TryFastEndpoints", "TryFastEndpoints\TryFastEndpoints.csproj", "{D4A38DBE-1C7B-4972-8488-5A3AF0AAB086}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatsLibrary", "CatsLibrary\CatsLibrary.csproj", "{1ECDA89D-A773-44F5-950A-60B42FA653B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{C998A67B-816F-4AB4-BC15-6263672FC0EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C998A67B-816F-4AB4-BC15-6263672FC0EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C998A67B-816F-4AB4-BC15-6263672FC0EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4A38DBE-1C7B-4972-8488-5A3AF0AAB086}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4A38DBE-1C7B-4972-8488-5A3AF0AAB086}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4A38DBE-1C7B-4972-8488-5A3AF0AAB086}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4A38DBE-1C7B-4972-8488-5A3AF0AAB086}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ECDA89D-A773-44F5-950A-60B42FA653B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ECDA89D-A773-44F5-950A-60B42FA653B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ECDA89D-A773-44F5-950A-60B42FA653B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ECDA89D-A773-44F5-950A-60B42FA653B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
